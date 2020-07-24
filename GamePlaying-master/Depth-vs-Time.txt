@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+				Depth1 ------- time 0.01s user
+				Depth 2 ------ time 0.01s user
+				Depth 3 ------- time 0.03s user
+				Depth4 -------- time 0.03s
+				Depth 5 ----  time  0.04s user
+				Depth 6 ------- time 0.05s user
+				Depth 7 ------- time 0.13s user
+				Depth 8 ------- time 0.16s user
+				Depth 9 ------ time  1.64s user
+				Depth  10  ----- time 2.01s user

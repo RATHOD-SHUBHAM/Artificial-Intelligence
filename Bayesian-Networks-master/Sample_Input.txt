@@ -1,0 +1,8 @@
+bnet Bf At Mt
+Probability =  0.0011034954
+
+bnet Jt given Et Bf
+Probability =  0.2965
+
+bnet Jf Mt given Et
+Probability =  0.02708493

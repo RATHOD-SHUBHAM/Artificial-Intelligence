@@ -1,0 +1,5 @@
+An evaluation function,  estimate the value position .Eval function helps make the most favorable move. The Minmax function identifies who is playing. It calculated the utlity value and based on that It store the alpha beta value
+Using the max and min value it obtained.
+Alpha will store the highest value and beta will store the least value
+Using this value algorithm keeps pruning the branch which need not be visited.
+Thus saving time and making the game more efficient.
